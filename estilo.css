@@ -14,7 +14,7 @@ body {
 	font-size: 24px;
 	font-family: 'Times New Roman';
 	margin-top: 0px;
-    margin-bottom: 0px;
+    	margin-bottom: 0px;
 }
 
 #cabecalho h1 {
@@ -39,7 +39,7 @@ body {
 #verdade h2 {
 	font-size: 24px;
 	font-family: 'Times New Roman';
-	padding-top: 27px;
+	padding-top: 15px;
 	margin-top: 0px;
 	font-weight: normal;
 }
@@ -98,7 +98,7 @@ p {
 	margin-left: 12px;
 }
 
-#musica p:nth_of_type(even) {
+#musica p:nth-of-type(even) {
 	padding-left: 34px;
 }
 
